@@ -2,7 +2,7 @@
 
 Rover Simulation - Experimental Design
 
-Contributors
+Contributors<br />
 Krishna Gurram<br />
 Bhavana Vakkalagada<br />
 Akhila<br />
