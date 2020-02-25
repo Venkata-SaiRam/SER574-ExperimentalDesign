@@ -3,8 +3,8 @@
 Rover Simulation - Experimental Design
 
 Contributors
-Krishna Gurram
-Bhavana Vakkalagada
-Akhila
-Sai Vinay
-Venkata Sai Ram
+Krishna Gurram<br />
+Bhavana Vakkalagada<br />
+Akhila<br />
+Sai Vinay<br />
+Venkata Sai Ram<br />
