@@ -1,0 +1,8 @@
+/Users/shipra/Projects/ExperimentalDesign/ExperimentalDesign/bin/Debug/netstandard2.0/ExperimentalDesign.deps.json
+/Users/shipra/Projects/ExperimentalDesign/ExperimentalDesign/bin/Debug/netstandard2.0/ExperimentalDesign.dll
+/Users/shipra/Projects/ExperimentalDesign/ExperimentalDesign/bin/Debug/netstandard2.0/ExperimentalDesign.pdb
+/Users/shipra/Projects/ExperimentalDesign/ExperimentalDesign/obj/Debug/netstandard2.0/ExperimentalDesign.csprojAssemblyReference.cache
+/Users/shipra/Projects/ExperimentalDesign/ExperimentalDesign/obj/Debug/netstandard2.0/ExperimentalDesign.AssemblyInfoInputs.cache
+/Users/shipra/Projects/ExperimentalDesign/ExperimentalDesign/obj/Debug/netstandard2.0/ExperimentalDesign.AssemblyInfo.cs
+/Users/shipra/Projects/ExperimentalDesign/ExperimentalDesign/obj/Debug/netstandard2.0/ExperimentalDesign.dll
+/Users/shipra/Projects/ExperimentalDesign/ExperimentalDesign/obj/Debug/netstandard2.0/ExperimentalDesign.pdb
